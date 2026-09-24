@@ -1,0 +1,22 @@
+{
+  "parent_issue_id": "PARENT_ISSUE_ID_HERE",
+  "tracker": "Feature",
+  "sections": [
+    {
+      "subject": "Section 1 Redmine Subject",
+      "section_heading": "1. Section 1 Markdown Heading"
+    },
+    {
+      "subject": "Section 2 Redmine Subject",
+      "section_heading": "2. Section 2 Markdown Heading"
+    },
+    {
+      "subject": "Section 3 Redmine Subject",
+      "section_heading": "3. Section 3 Markdown Heading"
+    },
+    {
+      "subject": "Section 4 Redmine Subject",
+      "section_heading": "4. Section 4 Markdown Heading"
+    }
+  ]
+}

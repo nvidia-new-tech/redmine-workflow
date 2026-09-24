@@ -1,0 +1,26 @@
+{
+  "parent_issue_id": "41627",
+  "tracker": "Feature",
+  "sections": [
+    {
+      "subject": "共通前置條件驗證",
+      "section_heading": "共通前置條件"
+    },
+    {
+      "subject": "資料蒐集流程驗證",
+      "section_heading": "1. 資料蒐集"
+    },
+    {
+      "subject": "資料清洗與訓練格式轉換驗證",
+      "section_heading": "2. 資料清洗"
+    },
+    {
+      "subject": "VLA 模型訓練驗證",
+      "section_heading": "3. 訓練"
+    },
+    {
+      "subject": "實機推論與部署驗證",
+      "section_heading": "4. 實機推論"
+    }
+  ]
+}
